@@ -5,7 +5,8 @@ C7 is not just a platform; it's a movement towards accelerated, community-driven
 ### Our Mission
 
 To revolutionize how knowledge is shared, curated, and consumed, making it faster and more accessible to everyone, everywhere. We believe in the power of community and technology to bring about a new era of learning and innovation.
-What We're Building
+
+### What We're Building
 
 - A platform that integrates the best of collaborative technologies, open-source contributions, and AI-driven content curation.
 - A space where individuals can contribute, learn, and share their knowledge on a global scale.
